@@ -1,0 +1,10 @@
+# PROJECT RPL - Requirements
+# Python 3.7+
+
+# QR Code generation
+qrcode==7.4.2
+Pillow==10.1.0
+
+# Development & Testing
+pytest==7.4.3
+pytest-cov==4.1.0
